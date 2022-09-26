@@ -46,13 +46,13 @@
           nucalScaleWidth="0.344NS" nucalScaleHeight="1NS" ncClickBorderColor="black" ncHoverBorderColor="black"
           dataModelForDynamicType="string" id="ae70af9d-6e09-48d6-9cd7-0b963fd0137c"
           v-bind:style="{'width':'644.83875px','height':'1022.74425px','zIndex':6,'maxWidth':'','minWidth':'','boxShadow':'','marginTop':'0px','maxHeight':'','minHeight':'','marginLeft':'0px','paddingTop':'0px','textShadow':'','visibility':'visible','borderColor':'#4B74FF','borderStyle':'solid','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','borderTopWidth':'0px','borderLeftWidth':'0px','borderRightWidth':'0px','borderBottomWidth':'0px','borderTopLeftRadius':'0px','borderTopRightRadius':'0px','borderBottomLeftRadius':'0px','borderBottomRightRadius':'0px'}"/>
-        <WLabel top="64.52806909315238%" left="42.980561555075596%" text="Smart Building" v-bind:snapX="false"
+        <WLabel top="64.52806909315238%" left="42.980561555075596%" text="Smart Building2" v-bind:snapX="false"
           v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom" ncTooltipText=""
           v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
           nucalScaleWidth="" nucalScaleHeight="" id="49a808c8-363f-47be-b342-8331050bfc8f"
           v-bind:style="{'color':'#0f1060','width':'265.267px','height':'38.657px','zIndex':7,'fontSize':'39.99px','maxWidth':'','minWidth':'','fontStyle':'','marginTop':'0px','maxHeight':'','minHeight':'','textAlign':'left','fontFamily':'Roboto-Regular,Roboto','fontWeight':'bold','lineHeight':'0.9997499999999999','marginLeft':'0px','paddingTop':'1.333px','textShadow':'','visibility':'visible','marginRight':'0px','paddingLeft':'0px','marginBottom':'0px','paddingRight':'0px','paddingBottom':'0px','textDecoration':''}"/>
         <WLabel top="72.16463414634147%" left="24.107142857142858%"
-          text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut"
+          text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut222"
           v-bind:snapX="false" v-bind:snapY="false" theme="theme--light01" position="absolute" ncTypography="custom"
           ncTooltipText=""
           v-bind:nucalDataModel="{'type':'NSW','isList':false,'dynamic':false,'structure':[{'type':'string','propName':'text','displayName':'Value'}]}"
